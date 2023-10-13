@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Technology](#Technology)
+- [Technology](#technology)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -12,17 +12,18 @@
 
 ## Description:
 
-It's an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js and Mongoose, it also uses a JavaScript date library native JavaScript Date object to format timestamps.
 
 ## Technology:
 
 Project is created with:
 
-- Javascript
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+![Technologies](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
+![Technologies](https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript&logoColor=white)
+![Technologies](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
+![Technologies](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+![Technologies](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)
+![Technologies](https://img.shields.io/badge/-Insomnia-4000BF?logo=Insomnia&logoColor=white)
 
 ## Installation
 
@@ -42,7 +43,7 @@ npm start
 
 #### Walkthrough Video
 
-[Click me to see the demo video!](https://www.awesomescreenshot.com/video/8271915?key=4160443a4094cf7c0af7d25991652853)
+[Click me to see the demo video!](https://drive.google.com/file/d/1FXiiydAKLNUMpM2rL116kyB9-FHf1SUS/view)
 
 #### Insomnia Screenshot
 
@@ -55,11 +56,12 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Contribution
 
-Made by Wenwen Tian
+Made by Enrico Palermo
 
 ## Questions?
 
-Please feel free to contact me if you need any further information:
+If you have any questions about the repo, open an issue or contact me directly at [enrico.palermo@ymail.com](mailto:enrico.palermo@ymail.com).
 
-- [Email](mailto:wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+![Avatar](https://avatars.githubusercontent.com/u/141057897?v=4&s=100)
+
+Check out my other projects at [epalermobootcamp](https://github.com/epalermobootcamp)
