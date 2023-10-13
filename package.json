@@ -1,22 +1,25 @@
 {
-  "name": "challenge-18-nosql-social-network-api",
-  "version": "1.0.2",
-  "description": "This is assignment number 18, UTOR Full Stack Developer Bootcamp",
-  "main": "index.js",
+  "name": "Social_Network_API",
+  "version": "1.0.0",
+  "description": "## Table of Contents",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index",
-    "dev": "nodemon index",
-    "seed": "node utils/seed.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/epalermobootcamp/Social_Network_API.git"
+    "url": "git+https://github.com/epalermobootcamp/Social_Network_API"
   },
-  "author": "Enrico Palermo",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/epalermobootcamp/Social_Network_API/issues"
   },
-  "homepage": "https://github.com/epalermobootcamp/Social_Network_API#readme"
+  "homepage": "https://github.com/epalermobootcamp/Social_Network_API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9"
+  }
 }
